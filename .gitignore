@@ -105,3 +105,6 @@ venv.bak/
 # data
 data/
 output_dir/
+model/bisenet.pdparams
+model/s3fd_paddle.pdparams
+model/vox-cpk.pdparams
